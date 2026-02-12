@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @arqamawais786
-- 👀 I’m interested in SDN/NFV
-- 🌱 I’m currently learning NFV
-- 💞️ I’m looking to collaborate on IoT network traffic classification using Network Function Virtualization
-- 📫 How to reach me via email: marqam.awais@students.uettaxila.edu.pk 
+-👋 Hi, I’m @arqamawais786
+
+🚀 GoHighLevel (GHL) Expert & Automation Specialist
+
+🤖 Passionate about Marketing Automation, CRM Systems & AI-driven Workflows
+
+⚙️ Specialized in Sales Funnels, Pipeline Automation, SaaS Setup & White-Label Solutions
+
+🌱 Currently exploring Advanced Workflow Automation & AI Integrations
+
+💞️ Open to collaborating on High-Converting Funnels, Lead Generation Systems & Business Process Automation
+
+📫 Let’s connect to automate and scale businesses efficiently
+- 📫 How to reach me via email: arqamawais73@gmail.com 
 
 <!---
 arqamawais786/arqamawais786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
